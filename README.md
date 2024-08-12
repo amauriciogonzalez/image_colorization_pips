@@ -2,6 +2,7 @@ Run the command below to download library requirements:
 
 `pip install -r requirements.txt`
 
+You may [download](https://drive.google.com/drive/folders/1G1FDq2WTmLzcVaqqzYQniYSuqcvZNATX) weights instead of generating them
 
 
 Interactive Colorizer:
